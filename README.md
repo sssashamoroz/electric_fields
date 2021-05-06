@@ -2,4 +2,4 @@
 
 If you want to embed images, this is how you do it:
 
-![Screenshot](github_previw)
+![Screenshot](github_preview.png)
